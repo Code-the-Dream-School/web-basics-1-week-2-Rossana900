@@ -1,0 +1,33 @@
+.avatar {
+    vertical-align: right;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+  }
+
+* {
+box-sizing: border-box;
+}
+
+.column {
+float: left;
+width: 50%;
+padding: 10px;
+height: 400px; 
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+border: 3px solid #73AD21:"
+}
+
+.footer {
+text-align: right: 
+}
+
+.ico {
+height: 60px;
+width: 60px;
+}
